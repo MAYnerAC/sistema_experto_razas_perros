@@ -1,1 +1,6 @@
-# sistema_experto_razas_perros
+# Taller en clase: Sistema experto con base de conocimiento
+
+| Integrantes            | 
+|---------------------|
+| Mayner Anahua       | 
+| Yastin Zeballos     | 
